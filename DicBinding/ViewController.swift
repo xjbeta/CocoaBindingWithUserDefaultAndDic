@@ -10,6 +10,7 @@ import Cocoa
 
 class ViewController: NSViewController {
 
+    // https://stackoverflow.com/a/16000802
     let savedDic = "savedDic"
     
     @IBAction func printDic(_ sender: Any) {
